@@ -121,7 +121,7 @@ def main():
         else:
             st.write("No valid tickers found.")
 
-if __name__ == '__main__':
+if __name__ == '__app__':
     main()
 
 
